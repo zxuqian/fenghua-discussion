@@ -24,8 +24,8 @@ Bilibili 个人主页：[https://space.bilibili.com/302954484](https://space.bil
 
 微信公众号：峰华前端工程师
 
-QQ 1群：644722908
+QQ 1群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=SMi2LOTygPnK3eWsK696L7Yx3ljWmanM&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="进击的前端工程师" title="进击的前端工程师"></a>
 
-QQ 2群：1004912565
+QQ 2群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=aIWNLjeXyuwC4AbGfscuQOo9AXA4z9lt&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="进击的前端工程师2群" title="进击的前端工程师2群"></a>
 
 博客：[http://zxuqian.cn](http://zxuqian.cn)
