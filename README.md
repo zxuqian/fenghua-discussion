@@ -24,7 +24,7 @@ Bilibili 个人主页：[https://space.bilibili.com/302954484](https://space.bil
 
 微信公众号：峰华前端工程师
 
-QQ 1群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=SMi2LOTygPnK3eWsK696L7Yx3ljWmanM&jump_from=webapi">![进击的前端工程师1群](2020-10-12-12-22-56.png)</a>
+QQ 1群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=SMi2LOTygPnK3eWsK696L7Yx3ljWmanM&jump_from=webapi">![进击的前端工程师1群](2020-10-12-12-22-56.png | width=100)</a>
 
 QQ 2群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=aIWNLjeXyuwC4AbGfscuQOo9AXA4z9lt&jump_from=webapi">![进击的前端工程师2群](2020-10-12-12-21-34.png)</a>
 
